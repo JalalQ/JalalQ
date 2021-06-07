@@ -13,6 +13,7 @@ Hi, my name is Jalal, and this readme file provides a categorical summarization 
 
 ### Database
 - [x] [Database design on Access](https://github.com/JalalQ/4007-Access-Database) - Designed an ERD and created its database on **Microsoft Access**. Forms and reports were created for end-users to interact with the database tables.
+- [x] [MySQL Queries](https://github.com/JalalQ/5105-MySQL-Queries) - **SQL queries** to extract information across multiple connected tables in a database.
 
 ### Data Analytics, Machine Learning
 - [x] [Customer Segmentation](https://github.com/JalalQ/4023-Anaconda-Cutomer-Segmentation) - Segmentation of customers profile based on **clustering**, and then perfroming **classification** to identify value conscious customers. **Python Anaconda** was used to perform the analysis.
