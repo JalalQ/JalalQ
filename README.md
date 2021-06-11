@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Jalal, and this readme file provides a categorical summarization of some of the representative repos I have on my Github account. 
+Hi, my name is Jalal, and this readme file provides a categorical summarization of some of the representative repos I have on my Github account. You can also visit my [Portfolio website](https://www.jalalq.ca/) for some of my works which I have hosted live, and my [linkedin profile](https://www.linkedin.com/in/jalaluddin-qureshi/) to learn more about my background.
 
 ### Front-end
 - [x] [Interactive CSS based Animation](https://github.com/JalalQ/5104-CSS-Animation) - Created animation based on **CSS**, with **Javascript** used for user interaction. 
