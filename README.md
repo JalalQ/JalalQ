@@ -11,7 +11,7 @@ Computer Science which can be solved using efficient Algorithms and Data Structu
 ### Front-end
 - [x] [Interactive CSS based Animation](https://github.com/JalalQ/5104-CSS-Animation) - Created animation based on **CSS**, with **Javascript** used for user interaction. 
 - [x] [Desktop Restaurant Website](https://github.com/JalalQ/5103-Restaurant-Group) - In this project my team used **Javascript, HTML and CSS** to design and develop the website for a restaurant.
-- [x] [Photoshop mockup Responsive implementation](https://github.com/JalalQ/5104-Photoshop-Responsive-Mockup) - Designed of web pages using **Adobe Photoshop**, and developed that design using **CSS and HTML** so that it is **responsive** for desktop, tablet and mobile devices.
+- [x] [Photoshop mockup Responsive implementation](https://github.com/JalalQ/5104-Photoshop-Responsive-Mockup) - Designed web pages using **Adobe Photoshop**, and developed that design using **CSS and HTML** so that it is **responsive** for desktop, tablet and mobile devices.
 
 ### Back-end 
 - [x] [Twitter and Google Map APIs integration](https://github.com/JalalQ/5203-Twitter-GoogleMap-Apis) - Integration of multiple API (Application Programming Interface) so that user can see on map the location of user posting tweets containing a keyword. **PHP** and **Javascript** was used to send request to the Twitter and Google Map APIs respectively.
