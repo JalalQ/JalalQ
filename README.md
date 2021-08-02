@@ -4,6 +4,10 @@ Hi, my name is Jalal, and this readme file provides a categorical summarization 
 
 Projects which I completed on algorithm design for computational problems can be accessed from my [Google Scholar](https://scholar.google.com/citations?user=pD7SKxQAAAAJ&hl=en) profile. One of my best work had been the design of [Triangular Code](https://en.wikipedia.org/wiki/Triangular_network_coding) in which I designed a coding schme with encoding-decoding computational complexities of *O(k log k)* within minimal overhead, *k* is the number of data packets. My closest competitor, [Raptor code](https://www.qualcomm.com/media/documents/files/raptorq-technical-overview.pdf), US patented and owned by Qualcomm has a complexity of *O(k<sup>1.5</sup>)*.
 
+### Algorithms and Data Structure
+- [x] [Algorithms and Data Structure](https://github.com/JalalQ/Algorithms) - In this single repo, I have added my source code (mostly in C++) for various problems in
+Computer Science which can be solved using efficient Algorithms and Data Structure. Solution for each of the problems is in a subfolder, with its own Readme file.
+
 ### Front-end
 - [x] [Interactive CSS based Animation](https://github.com/JalalQ/5104-CSS-Animation) - Created animation based on **CSS**, with **Javascript** used for user interaction. 
 - [x] [Desktop Restaurant Website](https://github.com/JalalQ/5103-Restaurant-Group) - In this project my team used **Javascript, HTML and CSS** to design and develop the website for a restaurant.
