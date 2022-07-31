@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Jalal, and this readme file provides a categorical summarization of some of the representative repos I have on my Github account. You can also visit my [Portfolio website](https://www.jalalq.ca/) for some of my works which I have hosted live, and my [linkedin profile](https://www.linkedin.com/in/jalaluddin-qureshi/) to learn more about my background. 
+Hi, my name is Jalal, and this readme file provides a categorical summarization of some of the representative repos I have on my Github account. You can also visit my [Portfolio website](http://www.jalalq.ca/) for some of my works which I have hosted live, and my [linkedin profile](https://www.linkedin.com/in/jalaluddin-qureshi/) to learn more about my background. 
 
 Projects which I completed on algorithm design for computational problems can be accessed from my [Google Scholar](https://scholar.google.com/citations?user=pD7SKxQAAAAJ&hl=en) profile. One of my best work had been the design of [Triangular Code](https://en.wikipedia.org/wiki/Triangular_network_coding) in which I designed a coding schme with encoding-decoding computational complexities of *O(k log k)* within minimal overhead, *k* is the number of data packets. My closest competitor, [Raptor code](https://www.qualcomm.com/media/documents/files/raptorq-technical-overview.pdf), US patented and owned by Qualcomm has a complexity of *O(k<sup>1.5</sup>)*.
 
